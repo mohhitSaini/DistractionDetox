@@ -5,7 +5,7 @@ A custom Chrome extension enabling users to manage their browsing habits by addi
 
 To install and use the Link Up Chrome extension, follow these steps:
 
-1. Clone the repository to your local machine using the following command: git clone https://github.com/YourGitHubUsername/link-up-chrome-extension.git
+1. Clone the repository to your local machine using the following command: git clone https://github.com/mohhitSaini/DistractionDetox.git
    
 2. Open Google Chrome browser and navigate to the Extensions page:
 - You can access the Extensions page by clicking on the three-dot menu in the top-right corner, then selecting "More tools" > "Extensions".
@@ -39,5 +39,3 @@ Once the DistractionDetox  Chrome extension is installed, follow these steps to 
 
 Contributions to the DistractionDetox  Chrome extension are welcome! If you have any bug fixes, improvements, or new features to propose, feel free to open a pull request.
 
-https://github.com/mohhitSaini/DistractionDetox/blob/main/Screenshot%20(744).png
-![Alt Text](https://github.com/mohhitSaini/DistractionDetox/blob/main/Screenshot%20(744).png)
